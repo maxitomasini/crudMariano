@@ -1,0 +1,8 @@
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.csproj.AssemblyReference.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.Form1.resources
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.Form2.resources
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.csproj.GenerateResource.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.AssemblyInfoInputs.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.AssemblyInfo.cs
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Release\net8.0-windows\crudMariano.csproj.CoreCompileInputs.cache

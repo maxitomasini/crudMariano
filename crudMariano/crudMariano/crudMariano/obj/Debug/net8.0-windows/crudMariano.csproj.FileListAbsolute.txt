@@ -1,0 +1,45 @@
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.exe
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.deps.json
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.runtimeconfig.json
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.dll
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.pdb
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.Form1.resources
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.Form2.resources
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.csproj.GenerateResource.cache
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.AssemblyInfo.cs
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.dll
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\refint\crudMariano.dll
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.pdb
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.genruntimeconfig.cache
+C:\Users\Windows\Documents\Tecnicatura Programacion\Programacion 2\WindowsForms\crudMariano\crudMariano\obj\Debug\net8.0-windows\ref\crudMariano.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.csproj.AssemblyReference.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.Form1.resources
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.Form2.resources
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.csproj.GenerateResource.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.AssemblyInfoInputs.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.AssemblyInfo.cs
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.csproj.CoreCompileInputs.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.exe
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.deps.json
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.runtimeconfig.json
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\crudMariano.pdb
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\bin\Debug\net8.0-windows\MySql.Data.xml
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMari.BC0DB087.Up2Date
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\refint\crudMariano.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.pdb
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.genruntimeconfig.cache
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\ref\crudMariano.dll
+D:\Archivos Usuario\Downloads\crudMariano\crudMariano\obj\Debug\net8.0-windows\crudMariano.sourcelink.json
